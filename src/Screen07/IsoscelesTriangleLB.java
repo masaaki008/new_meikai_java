@@ -2,7 +2,7 @@ package Screen07;
 
 import java.util.Scanner;
 
-// List7no7
+// List7-7
 // 左下が直角の直角三角形を表示
 public class IsoscelesTriangleLB {
     static void putStars(int n) {
