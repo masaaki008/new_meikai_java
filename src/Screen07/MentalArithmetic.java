@@ -13,7 +13,7 @@ public class MentalArithmetic {
         do {
             System.out.print("もう一度?<Yes.1/No.0>:");
             cont = stdIn.nextInt();
-        } while (cont != 0 && cont != 0);
+        } while (cont != 0 && cont != 1);
         return cont == 1;
     }
 
